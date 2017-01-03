@@ -11,6 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <p>tramwajek</p>
+        <p>tramwajki dwa</p>
         <?php
         // put your code here
         ?>
